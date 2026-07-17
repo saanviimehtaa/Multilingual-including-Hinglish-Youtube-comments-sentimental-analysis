@@ -1,4 +1,4 @@
-<h1><b></b>Multilingual YouTube Comment Sentiment Analyzer</h1>
+<h1><b></b>Multilingual YouTube Comments Sentiment Analyzer</h1>
 <p>Social media platforms like YouTube receive a large number of comments in
 multiple languages, including Hinglish (Hindi-English mixed), making
 sentiment analysis challenging.
