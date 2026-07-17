@@ -6,7 +6,8 @@ This project addresses the problem by using the Gemini API to translate Hinglish
 and multilingual comments into English before performing accurate sentiment
 analysis using classical ML.</p>
 
-<h1><b></b>Methodology / Pipeline</h1>
+<h2>Methodology / Pipeline</h2>
+<pre>
 Comment arrives
       │
       ▼
@@ -24,8 +25,11 @@ Trained Classical ML Model (SVM)
         │
         ▼
 Sentiment Prediction → Negative / Neutral / Positive
+</pre>
 
-<h1><b></b>Dataset Name:</h1>
-<p>YouTube Comments Sentiment Dataset
+<h2><b></b>Dataset Name:</h2>
+<p>YouTube Comments Sentiment Dataset<br>
 https://www.kaggle.com/datasets/amaanpoonawala/youtube-comments-sentiment
--dataset</p>
+</p>
+
+
