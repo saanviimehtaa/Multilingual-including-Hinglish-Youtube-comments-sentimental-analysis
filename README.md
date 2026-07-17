@@ -1,0 +1,2 @@
+<h1><b></b>Multilingual YouTube Comment Sentiment Analyzer</h1>
+<p>YouTube comment sections are a mess of languages — pure English, pure Hindi, and a lot of Hinglish thrown in together. Most sentiment analysis tools choke on that mix because they're built and tested only on English. This project is my attempt at a practical fix: translate everything to English first, then let a simple, fast ML model do the sentiment classification</p>
